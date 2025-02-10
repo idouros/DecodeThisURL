@@ -1,4 +1,4 @@
-# Copyright (c) <year> <copyright holders>
+# Copyright (c) 2025 Yannis Douros
 # Please read the LICENSE file
 
 import pandas as pd
