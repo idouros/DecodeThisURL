@@ -1,3 +1,6 @@
+# Copyright (c) <year> <copyright holders>
+# Please read the LICENSE file
+
 import pandas as pd
 
 def get_max_in_column(col, char_table):
@@ -25,7 +28,6 @@ def decode_this_url(input_url):
         c = char_table[1][i]
         result[y][x] = c
     return result
-
 
 def print_result(result):
     for i in range(0, len(result)):
